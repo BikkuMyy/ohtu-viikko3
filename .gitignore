@@ -1,0 +1,5 @@
+build/
+.gradle
+/.nb-gradle/
+Kurssistatistiikka/private/
+Kurssistatistiikka/.nb-gradle/
