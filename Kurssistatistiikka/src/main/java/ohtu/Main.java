@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         // vaihda oma opiskelijanumerosi seuraavaan, ÄLÄ kuitenkaan laita githubiin omaa opiskelijanumeroasi
-        String studentNr = "014610570";
+        String studentNr = "012345678";
         if ( args.length>0) {
             studentNr = args[0];
         }
