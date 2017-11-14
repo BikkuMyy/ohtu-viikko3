@@ -3,3 +3,5 @@ build/
 /.nb-gradle/
 Kurssistatistiikka/private/
 Kurssistatistiikka/.nb-gradle/
+/LoginCucumber/.nb-gradle/
+/HelloCucumber/.nb-gradle/
