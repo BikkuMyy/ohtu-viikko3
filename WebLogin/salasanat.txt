@@ -1,0 +1,6 @@
+pekka;akkep
+jukka;akkuj
+mari;mari
+uusi;uusi
+uusi2;uusi
+pekkaa;akkep
