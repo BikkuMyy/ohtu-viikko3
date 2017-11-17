@@ -4,3 +4,4 @@ mari;mari
 uusi;uusi
 uusi2;uusi
 pekkaa;akkep
+lea;salainen1

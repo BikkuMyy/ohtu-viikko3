@@ -12,10 +12,7 @@ public class Tester {
         ChromeDriverManager.getInstance().setup();
         //System.setProperty("webdriver.chrome.driver", "/usr/lib/chromedriver");
         WebDriver driver = new ChromeDriver();
-
         driver.get("http://localhost:4567");
-        
-        sleep(2);
         
         WebElement element = driver.findElement(By.linkText("register new user"));
         element.click();
