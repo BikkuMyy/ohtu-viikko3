@@ -1,0 +1,4 @@
+## Retrospektiivitekniikat
+Kullakin projektityöryhmällä on oma tapansa käsitellä kulunutta sprinttiä sen päättymisen jälkeen. Retrospektiivin tavoitteena on tuoda esiin sprintissä enenmmän tai vähemmän hyvin onnistuneita asioita sekä löytää kehitysmahdollisuuksia ja toimintatapoja seuraavaa sprinttiä varten.
+Glad, Sad, Mad on yksinkertainen tekniikka, jossa kukin projektiryhmän jäsen kirjoittaa jollain tapaa ylös huomioita sprintin ajalta, jotka sitten sisällön mukaan ryhmitellän ja jaotellaan kategorioihin Sad, Mad ja Glad. Osallistujat äänestävät kunkin aiheen prioriteetista ja korkeimman prioriteetin saaneista aiheista keskustellaan ensin.
+Start, Stop, Continue, More of, Less of Wheel (SSCMoLoW) -tekniikassa piirretään ympyrä, joka jaetaan edellä mainuttuihin kategorioihin. Kommentteja kustakin kategoriasta kirjataan ympyrään, joista sitten keskustellaan ja sovitaan tarvittavista toimenpiteistä.
